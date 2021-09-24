@@ -6,10 +6,10 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover"/>
 
-    <link rel="stylesheet" href="/style.css?v=1632496732690"/>
-    <link rel="stylesheet" href="/vendor/sal/sal.css?v=1632496732690"/>
+    <link rel="stylesheet" href="/style.css?v=1632499442507"/>
+    <link rel="stylesheet" href="/vendor/sal/sal.css?v=1632499442507"/>
 
-   
+    <script defer src="https://unpkg.com/alpinejs@3.2.1/dist/cdn.min.js"></script>
     <title>Charlas evento online 24h24L Edici&oacute;n programaci&oacute;n 11 y 12 diciembre 2021 - 24H24L</title>
 
 <meta name="description" content="Evento online con 24 charlas sobre desarrollo y programaci&oacute;n con software libre.">
@@ -95,8 +95,8 @@
 
 
 <div class="w-full bg-primary py-1 rounded-lg">
-<nav>
-    <ul class="flex justify-around font-bold tracking-tight text-base lg:text-lg">
+<nav class="hidden sm:block">
+    <ul class="flex justify-around font-bold tracking-tight text-sm sm:text-base lg:text-lg">
     
     <li><a href="/" class="text-white hover:opacity-75">Inicio</a></li>
     
@@ -111,6 +111,37 @@
     
     </ul>
 </nav>
+
+<div class="flex flex-wrap sm:hidden items-center" x-data="{ open: false }">
+
+    <span class="text-white flex-1 font-bold tracking-tight px-4">Menu</span>
+    <button class="px-4" >
+    
+    <svg xmlns="http://www.w3.org/2000/svg" @click="open = !open" class="h-8 w-8 inline text-white" viewBox="0 0 20 20" fill="currentColor">
+    <path d="M6 10a2 2 0 11-4 0 2 2 0 014 0zM12 10a2 2 0 11-4 0 2 2 0 014 0zM16 12a2 2 0 100-4 2 2 0 000 4z" />
+    </svg>
+    
+    </button>
+
+    <nav class="w-full px-4" x-cloak x-show="open"  x-transition>
+        <ul class="font-bold tracking-tight text-lg">
+        
+        <li class="py-1 w-full text-center"><a href="/" class="text-white hover:opacity-75">Inicio</a></li>
+        
+        <li class="py-1 w-full text-center"><a href="/programacion" class="text-white hover:opacity-75">Programación</a></li>
+        
+        <li class="py-1 w-full text-center"><a href="/patrocinadores" class="text-white hover:opacity-75">Patrocinadores</a></li>
+        
+        <li class="py-1 w-full text-center"><a href="/participantes" class="text-white hover:opacity-75">Participantes</a></li>
+        
+        <li class="py-1 w-full text-center"><a href="/contacto" class="text-white hover:opacity-75">Contacto</a></li>
+        
+        
+        </ul>
+    </nav>
+
+</div>
+
 </div>
 
         
@@ -174,7 +205,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>Jose Jiménez</p>
+                        <p class="text-lg text-gray-500">Jose Jiménez</p>
                     </div>
                     
                 </div>
@@ -219,7 +250,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>Evelio Sánchez</p>
+                        <p class="text-lg text-gray-500">Evelio Sánchez</p>
                     </div>
                     
                 </div>
@@ -264,7 +295,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>José Jiménez</p>
+                        <p class="text-lg text-gray-500">José Jiménez</p>
                     </div>
                     
                 </div>
@@ -309,7 +340,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>José Jiménez</p>
+                        <p class="text-lg text-gray-500">José Jiménez</p>
                     </div>
                     
                 </div>
@@ -354,7 +385,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>Andros Fenollosa</p>
+                        <p class="text-lg text-gray-500">Andros Fenollosa</p>
                     </div>
                     
                 </div>
@@ -399,7 +430,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>Juan José Ramos</p>
+                        <p class="text-lg text-gray-500">Juan José Ramos</p>
                     </div>
                     
                 </div>
@@ -444,7 +475,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>Javier Archeni</p>
+                        <p class="text-lg text-gray-500">Javier Archeni</p>
                     </div>
                     
                 </div>
@@ -489,7 +520,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>David Vaquero</p>
+                        <p class="text-lg text-gray-500">David Vaquero</p>
                     </div>
                     
                 </div>
@@ -534,7 +565,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>Carlos Encalada</p>
+                        <p class="text-lg text-gray-500">Carlos Encalada</p>
                     </div>
                     
                 </div>
@@ -579,7 +610,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>Rubén Valseca</p>
+                        <p class="text-lg text-gray-500">Rubén Valseca</p>
                     </div>
                     
                 </div>
@@ -624,7 +655,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>Fernando La Chica</p>
+                        <p class="text-lg text-gray-500">Fernando La Chica</p>
                     </div>
                     
                 </div>
@@ -669,7 +700,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>Jimena Escobar</p>
+                        <p class="text-lg text-gray-500">Jimena Escobar</p>
                     </div>
                     
                 </div>
@@ -714,7 +745,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>David Marzal</p>
+                        <p class="text-lg text-gray-500">David Marzal</p>
                     </div>
                     
                 </div>
@@ -759,7 +790,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>Lorenzo Carbonell</p>
+                        <p class="text-lg text-gray-500">Lorenzo Carbonell</p>
                     </div>
                     
                 </div>
@@ -804,7 +835,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>José Jiménez</p>
+                        <p class="text-lg text-gray-500">José Jiménez</p>
                     </div>
                     
                 </div>
@@ -849,7 +880,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>Andros Fenollosa</p>
+                        <p class="text-lg text-gray-500">Andros Fenollosa</p>
                     </div>
                     
                 </div>
@@ -894,7 +925,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>David Marzal</p>
+                        <p class="text-lg text-gray-500">David Marzal</p>
                     </div>
                     
                 </div>
@@ -939,7 +970,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>Josue</p>
+                        <p class="text-lg text-gray-500">Josue</p>
                     </div>
                     
                 </div>
@@ -984,7 +1015,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>Diego Muñoz</p>
+                        <p class="text-lg text-gray-500">Diego Muñoz</p>
                     </div>
                     
                 </div>
@@ -1029,7 +1060,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>Evelio Sánchez</p>
+                        <p class="text-lg text-gray-500">Evelio Sánchez</p>
                     </div>
                     
                 </div>
@@ -1074,7 +1105,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>José Jiménez</p>
+                        <p class="text-lg text-gray-500">José Jiménez</p>
                     </div>
                     
                 </div>
@@ -1119,7 +1150,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>Samuel</p>
+                        <p class="text-lg text-gray-500">Samuel</p>
                     </div>
                     
                 </div>
@@ -1164,7 +1195,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>David Marzal</p>
+                        <p class="text-lg text-gray-500">David Marzal</p>
                     </div>
                     
                 </div>
@@ -1209,7 +1240,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>Pato</p>
+                        <p class="text-lg text-gray-500">Pato</p>
                     </div>
                     
                 </div>
@@ -1252,7 +1283,7 @@
 
                     <div class="mt-4 text-center">
                         <span class="text-xs text-gray-500">Moderada por</span>
-                        <p>Jose Jíménez</p>
+                        <p class="text-lg text-gray-500">Jose Jíménez</p>
                     </div>
                     
                 </div>
@@ -1363,7 +1394,7 @@
 
     <div class="flex flex-wrap justify-center items-center mt-4">
 
-            <a href="#">
+            <a href="https://mastodon.online/@24h24l">
              <picture>
       <source type="image/webp" srcset="/images/mastodon-800w.webp 800w" sizes="100vw">
   <source type="image/jpeg" srcset="/images/mastodon-800w.jpeg 800w" sizes="100vw">
@@ -1377,7 +1408,7 @@
       decoding="async">
   </picture>
             </a>
-             <a href="#">
+             <a href="https://twitter.com/24H24L1">
              <picture>
       <source type="image/webp" srcset="/images/twitter-800w.webp 800w" sizes="100vw">
   <source type="image/jpeg" srcset="/images/twitter-800w.jpeg 800w" sizes="100vw">
@@ -1391,7 +1422,7 @@
       decoding="async">
   </picture>
              
-            <a href="#">
+            <a href="https://www.youtube.com/channel/UCxUKfsev_8aJEQHFKVMk0Kw">
              <picture>
       <source type="image/webp" srcset="/images/youtube-800w.webp 800w" sizes="100vw">
   <source type="image/jpeg" srcset="/images/youtube-800w.jpeg 800w" sizes="100vw">
@@ -1405,7 +1436,7 @@
       decoding="async">
   </picture>
             </a>
-            <a href="#">
+            <a href="https://t.me/evento24h24l">
              <picture>
       <source type="image/webp" srcset="/images/telegram-800w.webp 800w" sizes="100vw">
   <source type="image/jpeg" srcset="/images/telegram-800w.jpeg 800w" sizes="100vw">
@@ -1440,8 +1471,8 @@
 
   
  
- <script src="/vendor/sal/sal.js?v=1632496732719"></script>
- <script src="/js/scripts.js?v=1632496732719"></script>
+ <script src="/vendor/sal/sal.js?v=1632499442513"></script>
+ <script src="/js/scripts.js?v=1632499442513"></script>
  
 
 

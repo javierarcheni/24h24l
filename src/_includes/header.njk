@@ -36,12 +36,35 @@
 
 
 <div class="w-full bg-primary py-1 rounded-lg">
-<nav>
-    <ul class="flex justify-around font-bold tracking-tight text-base lg:text-lg">
+<nav class="hidden sm:block">
+    <ul class="flex justify-around font-bold tracking-tight text-sm sm:text-base lg:text-lg">
     {% for item in menu %}
     <li><a href="{{ item.href | safe }}" class="text-white hover:opacity-75">{{ item.name}}</a></li>
     {% endfor %}
     
     </ul>
 </nav>
+
+<div class="flex flex-wrap sm:hidden items-center" x-data="{ open: false }">
+
+    <span class="text-white flex-1 font-bold tracking-tight px-4">Menu</span>
+    <button class="px-4" >
+    
+    <svg xmlns="http://www.w3.org/2000/svg" @click="open = !open" class="h-8 w-8 inline text-white" viewBox="0 0 20 20" fill="currentColor">
+    <path d="M6 10a2 2 0 11-4 0 2 2 0 014 0zM12 10a2 2 0 11-4 0 2 2 0 014 0zM16 12a2 2 0 100-4 2 2 0 000 4z" />
+    </svg>
+    
+    </button>
+
+    <nav class="w-full px-4" x-cloak x-show="open"  x-transition>
+        <ul class="font-bold tracking-tight text-lg">
+        {% for item in menu %}
+        <li class="py-1 w-full text-center"><a href="{{ item.href | safe }}" class="text-white hover:opacity-75">{{ item.name}}</a></li>
+        {% endfor %}
+        
+        </ul>
+    </nav>
+
+</div>
+
 </div>

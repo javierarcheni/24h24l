@@ -6,10 +6,10 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover"/>
 
-    <link rel="stylesheet" href="/style.css?v=1632496732680"/>
-    <link rel="stylesheet" href="/vendor/sal/sal.css?v=1632496732680"/>
+    <link rel="stylesheet" href="/style.css?v=1632499442494"/>
+    <link rel="stylesheet" href="/vendor/sal/sal.css?v=1632499442494"/>
 
-   
+    <script defer src="https://unpkg.com/alpinejs@3.2.1/dist/cdn.min.js"></script>
     <title>Contacta con el evento online 24H24L - 24H24L</title>
 
 <meta name="description" content="Evento online con 24 charlas sobre desarrollo y programaci&oacute;n con software libre.">
@@ -95,8 +95,8 @@
 
 
 <div class="w-full bg-primary py-1 rounded-lg">
-<nav>
-    <ul class="flex justify-around font-bold tracking-tight text-base lg:text-lg">
+<nav class="hidden sm:block">
+    <ul class="flex justify-around font-bold tracking-tight text-sm sm:text-base lg:text-lg">
     
     <li><a href="/" class="text-white hover:opacity-75">Inicio</a></li>
     
@@ -111,6 +111,37 @@
     
     </ul>
 </nav>
+
+<div class="flex flex-wrap sm:hidden items-center" x-data="{ open: false }">
+
+    <span class="text-white flex-1 font-bold tracking-tight px-4">Menu</span>
+    <button class="px-4" >
+    
+    <svg xmlns="http://www.w3.org/2000/svg" @click="open = !open" class="h-8 w-8 inline text-white" viewBox="0 0 20 20" fill="currentColor">
+    <path d="M6 10a2 2 0 11-4 0 2 2 0 014 0zM12 10a2 2 0 11-4 0 2 2 0 014 0zM16 12a2 2 0 100-4 2 2 0 000 4z" />
+    </svg>
+    
+    </button>
+
+    <nav class="w-full px-4" x-cloak x-show="open"  x-transition>
+        <ul class="font-bold tracking-tight text-lg">
+        
+        <li class="py-1 w-full text-center"><a href="/" class="text-white hover:opacity-75">Inicio</a></li>
+        
+        <li class="py-1 w-full text-center"><a href="/programacion" class="text-white hover:opacity-75">Programación</a></li>
+        
+        <li class="py-1 w-full text-center"><a href="/patrocinadores" class="text-white hover:opacity-75">Patrocinadores</a></li>
+        
+        <li class="py-1 w-full text-center"><a href="/participantes" class="text-white hover:opacity-75">Participantes</a></li>
+        
+        <li class="py-1 w-full text-center"><a href="/contacto" class="text-white hover:opacity-75">Contacto</a></li>
+        
+        
+        </ul>
+    </nav>
+
+</div>
+
 </div>
 
         
@@ -214,7 +245,7 @@
 
     <div class="flex flex-wrap justify-center items-center mt-4">
 
-            <a href="#">
+            <a href="https://mastodon.online/@24h24l">
              <picture>
       <source type="image/webp" srcset="/images/mastodon-800w.webp 800w" sizes="100vw">
   <source type="image/jpeg" srcset="/images/mastodon-800w.jpeg 800w" sizes="100vw">
@@ -228,7 +259,7 @@
       decoding="async">
   </picture>
             </a>
-             <a href="#">
+             <a href="https://twitter.com/24H24L1">
              <picture>
       <source type="image/webp" srcset="/images/twitter-800w.webp 800w" sizes="100vw">
   <source type="image/jpeg" srcset="/images/twitter-800w.jpeg 800w" sizes="100vw">
@@ -242,7 +273,7 @@
       decoding="async">
   </picture>
              
-            <a href="#">
+            <a href="https://www.youtube.com/channel/UCxUKfsev_8aJEQHFKVMk0Kw">
              <picture>
       <source type="image/webp" srcset="/images/youtube-800w.webp 800w" sizes="100vw">
   <source type="image/jpeg" srcset="/images/youtube-800w.jpeg 800w" sizes="100vw">
@@ -256,7 +287,7 @@
       decoding="async">
   </picture>
             </a>
-            <a href="#">
+            <a href="https://t.me/evento24h24l">
              <picture>
       <source type="image/webp" srcset="/images/telegram-800w.webp 800w" sizes="100vw">
   <source type="image/jpeg" srcset="/images/telegram-800w.jpeg 800w" sizes="100vw">
@@ -291,8 +322,8 @@
 
   
  
- <script src="/vendor/sal/sal.js?v=1632496732687"></script>
- <script src="/js/scripts.js?v=1632496732687"></script>
+ <script src="/vendor/sal/sal.js?v=1632499442502"></script>
+ <script src="/js/scripts.js?v=1632499442502"></script>
  
 
 
