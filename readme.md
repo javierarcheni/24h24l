@@ -4,7 +4,7 @@
 
 **Segunda edición del evento 24H24L ,con un cambio de temática, en está edición se centrará en la programación y desarrollo de software.**
 
-*GNU/Linux* y la programación  están muy relacionados , Linux es un Kernel desarrollo muy complejo donde participan desde empresas hasta usuarios particulares y con las herramientas de *GNU* podemos desarrollar cualquier proyecto. También la gran mayoría, o posiblemente todos, de los lenguajes de programación son *Software Libre*. Por eso se decidió que  programación y desarrollo es una buena temática para la siguiente edición de *24H24L*.
+*GNU/Linux* y la programación están muy relacionados, Linux es un Kernel desarrollo muy complejo donde participan desde empresas hasta usuarios particulares y con las herramientas de *GNU* podemos desarrollar cualquier proyecto. También la gran mayoría, o posiblemente todos, de los lenguajes de programación son *Software Libre*. Por eso se decidió que  programación y desarrollo es una buena temática para la siguiente edición de *24H24L*.
 
 El formato es el mismo que la edición anterior, **24 audios de 1 hora de duración** que serán grabados y posteriormente emitidos desde la web del evento,que será emitidos el próximo **11 y 12 de Diciembre**. Cada audio estará compuesto por *dos participantes* y *un moderador*. 
 
@@ -41,14 +41,15 @@ José Jiménez (Organización)
 [24h24l@mailo.com](mailto:24h24l@mailo.com)
 
 
-# Otra starter más basada en Eleventy y Tailwind CSS basada en otra similar por [Greg Wolanski](https://github.com/gregwolanski/eleventy-tailwindcss-alpinejs-starter)
+# Créditos
 
-Este starter instala:
+Este sitio instala:
 
 * [Eleventy](https://11ty.dev), incluyendo .eleventy.js con la configuración de plugins, filtros y shortcode.
 * [Tailwind CSS](https://tailwindcss.com) con archivo base de configuración tailwind.config.js
 * HTML minifier
 * Clean CSS
+* [Alpine.js](https://alpinejs.dev/)
 
 También aprovecha los siguientes plugins:
 
@@ -56,27 +57,7 @@ También aprovecha los siguientes plugins:
 * SEO con [eleventy-plugin-seo] (https://github.com/artstorm/eleventy-plugin-seo)
 * SVG rendering [eleventy-plugin-svg-contents] (https://github.com/brob/eleventy-plugin-svg-contents)
 
-## Instalación
 
-Simplemente clona el proyecto en local con:
-
-```
-git clone https://github.com/javierarcheni/tailventy
-```
-
-Cambia al directorio y tan solo instala las dependencias
-
-```
-npm install
-```
-:exclamation: Tailwind CSS requiere versión mínima de node v11 [Más info](https://stackoverflow.com/questions/64907613/typeerror-object-entries-flatmap-is-not-a-function/64909657)
-
-Ejecutar scripts de desarrollo y producción
-
-```
-npm run start
-npm run build
-```
 
 
 
