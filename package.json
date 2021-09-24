@@ -1,0 +1,27 @@
+{
+  "name": "tailventy",
+  "version": "1.0.0",
+  "description": "Un starter basado en Eleventy + Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -rf public/*",
+    "start": "eleventy --serve & postcss styles/tailwind.css --o _tmp/style.css --watch",
+    "build": "npm run clean && eleventy && NODE_ENV=production postcss styles/tailwind.css --o public/style.css && cleancss public/style.css -o public/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "autoprefixer": "^10.2.4",
+    "clean-css-cli": "^5.1.0",
+    "eleventy-plugin-seo": "^0.5.1",
+    "html-minifier": "^4.0.0",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.0.3"
+  },
+  "dependencies": {
+    "@11ty/eleventy-img": "^0.8.0",
+    "eleventy-plugin-svg-contents": "^0.7.0"
+  }
+}

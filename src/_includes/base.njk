@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8"/>
+    
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover"/>
+
+    <link rel="stylesheet" href="/style.css?v={% version %}"/>
+    <link rel="stylesheet" href="/vendor/sal/sal.css?v={% version %}"/>
+
+   
+    {% seo "" %}
+    
+
+    {% block head %}{% endblock %}
+    
+  
+  </head>
+  <body class="font-sans bg-dots">
+ 
+  
+  <div class="flex flex-col items-center h-full">
+    <div class="max-w-5xl lg:max-w-6xl flex-grow h-full w-full">
+      <div class="px-4 lg:px-6 bg-white sm:mx-2 md:mx-8 h-full"> 
+      
+        {% include "header.njk" %}
+
+        {% block content %}
+            {{ content | safe }}
+        {% endblock %}
+        
+        {% include "footer.njk" %}
+    
+      </div>
+    </div>
+  </div>
+
+  
+ 
+ <script src="/vendor/sal/sal.js?v={% version %}"></script>
+ <script src="/js/scripts.js?v={% version %}"></script>
+ 
+
+
+  </body>
+</html>

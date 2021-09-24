@@ -1,0 +1,349 @@
+[
+    {
+        "titulo": "Ya sé programar ¿y ahora qué?",
+        "fecha": "16:00 - 17:00 / 11 diciembre",
+        "participantes": [
+            {
+                "nombre": "Guillermo Rodas"
+            },
+            {
+                "nombre": "Jorge Johell"
+            }
+        ],
+        "moderador": "Jose Jiménez",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=Ya%20s%C3%A9%20programar%20%C2%BFy%20ahora%20qu%C3%A9%3F&dates=20211211T150000Z/20211211T160000Z&details=Ya%20s%C3%A9%20programar%20%C2%BFy%20ahora%20qu%C3%A9%3F%0ADate%20and%20Time%3A%20Dec%2011%2C%202021%203%3A00%20PM%20-%204%3A00%20PM%0AVenue%3A%20Evento%20online%2024h24l.org%0ACharla%20Ya%20s%C3%A9%20programar%20%C2%BFy%20ahora%20qu%C3%A9%3F%20en%2024H24L.%20Participantes%20Guillermo%20Rodas%20y%20Jorge%20Johell.%20Modera%20Jos%C3%A9%20Jim%C3%A9nez.&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "Metodologías Ágiles",
+        "fecha": "17:00 - 18:00 / 11 diciembre",
+        "participantes": [
+            {
+                "nombre": "Vinolia Barreto"
+            },
+            {
+                "nombre": "JJ Merelo"
+            }
+        ],
+        "moderador": "Evelio Sánchez",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=Metodolog%C3%ADas%20%C3%81giles&dates=20211211T040000Z/20211211T170000Z&details=Metodolog%C3%ADas%20%C3%81giles%0ADate%20and%20Time%3A%20Dec%2011%2C%202021%204%3A00%20AM%20-%205%3A00%20PM%0AVenue%3A%20Evento%20online%2024h24l.org%0ACharla%20Metodolog%C3%ADa%20%C3%81giles%20en%2024H24L.%20Participantes%20Vinolia%20Barreto%20y%20JJ%20Merelo.%20Modera%20Evelio%20S%C3%A1nchez.%0A%0A&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "Gestión de equipos",
+        "fecha": "18:00 - 19:00 / 11 diciembre",
+        "participantes": [
+            {
+                "nombre": "David Bonilla"
+            },
+            {
+                "nombre": "Carlos Buenosvinos"
+            }
+        ],
+        "moderador": "José Jiménez",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=Gesti%C3%B3n%20de%20equipos%2024H24L&dates=20211211T170000Z/20211211T180000Z&details=Gesti%C3%B3n%20de%20equipos%2024H24L%0ADate%20and%20Time%3A%20Dec%2011%2C%202021%205%3A00%20PM%20-%206%3A00%20PM%0AVenue%3A%20Evento%20online%2024h24l.org%0A18%3A00-19%3A00%20Gesti%C3%B3n%20de%20equipos%20David%20Bonilla%20y%20Carlos%20Buenosvinos%20Jos%C3%A9%20Jim%C3%A9nez%0A&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "Vivir de tu producto",
+        "fecha": "19:00 - 20:00 / 11 diciembre",
+        "participantes": [
+            {
+                "nombre": "Álvaro Trigo"
+            },
+            {
+                "nombre": "Carlos García"
+            }
+        ],
+        "moderador": "José Jiménez",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=Vivir%20de%20tu%20producto%2024H24L&dates=20211211T180000Z/20211211T190000Z&details=Vivir%20de%20tu%20producto%2024H24L%0ADate%20and%20Time%3A%20Dec%2011%2C%202021%206%3A00%20PM%20-%207%3A00%20PM%0AVenue%3A%20Evento%20online%2024h24l.org%0A19%3A00-20%3A00%20Vivir%20de%20tu%20producto%20%C3%81lvaro%20Trigo%20y%20Carlos%20Garc%C3%ADa%20Jos%C3%A9%20Jim%C3%A9nez&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "Crear una API",
+        "fecha": "20:00 - 21:00 / 11 diciembre",
+        "participantes": [
+            {
+                "nombre": "Fran Méndez"
+            },
+            {
+                "nombre": "Erick Navarro"
+            }
+        ],
+        "moderador": "Andros Fenollosa",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=Crear%20una%20API%20Charla%2024H24L&dates=20211211T190000Z/20211211T200000Z&details=Crear%20una%20API%20Charla%2024H24L%0ADate%20and%20Time%3A%20Dec%2011%2C%202021%207%3A00%20PM%20-%208%3A00%20PM%0AVenue%3A%20Evento%20online%2024h24l.org%0A20%3A00-21%3A00%20Crear%20una%20API%20Fran%20M%C3%A9ndez%20y%20Erick%20Navarro%20Andros%20Fenollosa&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "Desarrollo web ¿Qué debo aprender?",
+        "fecha": "20:00 - 21:00 / 11 diciembre",
+        "participantes": [
+            {
+                "nombre": "Joseda"
+            },
+            {
+                "nombre": "Javier Holguin"
+            }
+        ],
+        "moderador": "Juan José Ramos",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=Desarrollo%20web%20%C2%BFQu%C3%A9%20debo%20aprender%3F%20-%20Charla%2024H24L&dates=20211211T200000Z/20211211T210000Z&details=Desarrollo%20web%20%C2%BFQu%C3%A9%20debo%20aprender%3F%20-%20Charla%2024H24L%0ADate%20and%20Time%3A%20Dec%2011%2C%202021%208%3A00%20PM%20-%209%3A00%20PM%0AVenue%3A%20Evento%20online%2024h24l.org%0A21%3A00-22%3A00%20Desarrollo%20web%20%C2%BFQu%C3%A9%20debo%20aprender%3F%20%20Joseda%20y%20Javier%20Holguin%20Juan%20Jos%C3%A9%20Ramos&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "Optimización Web",
+        "fecha": "22:00 - 23:00 / 11 diciembre",
+        "participantes": [
+            {
+                "nombre": "Antonio Sánchez"
+            },
+            {
+                "nombre": "Chabi Angulo"
+            }
+        ],
+        "moderador": "Javier Archeni",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=22%3A00-23%3A00%20Optimizaci%C3%B3n%20web%20Antonio%20S%C3%A1nchez%20y%20Chabi%20Angulo.%20Modera%20Javier%20Archeni.&dates=20211211T210000Z/20211211T220000Z&details=22%3A00-23%3A00%20Optimizaci%C3%B3n%20web%20Antonio%20S%C3%A1nchez%20y%20Chabi%20Angulo.%20Modera%20Javier%20Archeni.%0ADate%20and%20Time%3A%20Dec%2011%2C%202021%209%3A00%20PM%20-%2010%3A00%20PM%0AVenue%3A%20Evento%20online%2024h24l.org%0A22%3A00-23%3A00%20Optimizaci%C3%B3n%20web%20Antonio%20S%C3%A1nchez%20y%20Chabi%20Angulo.%20Modera%20Javier%20Archeni.&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "Aprendiendo gestores de contenido (CMS)",
+        "fecha": "23:00 - 00:00 / 11 diciembre",
+        "participantes": [
+            {
+                "nombre": "Javier Archeni"
+            },
+            {
+                "nombre": "Borja Vicente"
+            }
+        ],
+        "moderador": "David Vaquero",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=%2023%3A00-00%3A00%20Aprendiendo%20CMS%20Javier%20Archeni%20y%20Borja%20Vicente%20David%20Vaquero&dates=20211211T220000Z/20211211T230000Z&details=%2023%3A00-00%3A00%20Aprendiendo%20CMS%20Javier%20Archeni%20y%20Borja%20Vicente%20David%20Vaquero%0ADate%20and%20Time%3A%20Dec%2011%2C%202021%2010%3A00%20PM%20-%2011%3A00%20PM%0AVenue%3A%20Evento%20online%2024h24l.org%0A23%3A00-00%3A00%20Aprendiendo%20CMS%20Javier%20Archeni%20y%20Borja%20Vicente%20David%20Vaquero&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "El futuro de JavaScript",
+        "fecha": "00:00 - 01:00 / 12 diciembre",
+        "participantes": [
+            {
+                "nombre": "Daniel Primo"
+            },
+            {
+                "nombre": "Jose Roman (Manz)"
+            }
+        ],
+        "moderador": "Carlos Encalada",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=00%3A00-01%3A00%20El%20futuro%20de%20JavaScript%20Daniel%20Primo%20y%20Jose%20Roman(Manz)%20Carlos%20Encalada&dates=20211211T230000Z/20211212T000000Z&details=00%3A00-01%3A00%20El%20futuro%20de%20JavaScript%20Daniel%20Primo%20y%20Jose%20Roman(Manz)%20Carlos%20Encalada%0ADate%20and%20Time%3A%20Dec%2011%2C%202021%2011%3A00%20PM%20-%20Dec%2012%2C%202021%2012%3A00%20AM%0AVenue%3A%20Evento%20online%2024h24l.org%0ACharla%20El%20futuro%20de%20JavaScript%20en%2024H24L&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "Framework de JavaScript",
+        "fecha": "01:00 - 02:00 / 12 diciembre",
+        "participantes": [
+            {
+                "nombre": "Alba Silvestre"
+            },
+            {
+                "nombre": "Aitor Romero"
+            }
+        ],
+        "moderador": "Rubén Valseca",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=%2001%3A00-02%3A00%20Framework%20de%20JavaScript%20Alba%20Silvestre%20y%20Aitor%20Romero%20Rub%C3%A9n%20Valseca&dates=20211212T000000Z/20211212T010000Z&details=%2001%3A00-02%3A00%20Framework%20de%20JavaScript%20Alba%20Silvestre%20y%20Aitor%20Romero%20Rub%C3%A9n%20Valseca%0ADate%20and%20Time%3A%20Dec%2012%2C%202021%2012%3A00%20AM%20-%201%3A00%20AM%0AVenue%3A%20Evento%20online%2024h24l.org%0ACharla%20Framework%20de%20JavaScript%20%20en%2024H24L&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "Diseño UX",
+        "fecha": "02:00 - 03:00 / 12 diciembre",
+        "participantes": [
+            {
+                "nombre": "Fiorella Vercelli"
+            },
+            {
+                "nombre": "César Héctor"
+            }
+        ],
+        "moderador": "Fernando La Chica",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=02%3A00-03%3A00%20Dise%C3%B1o%20UX%20Fiorella%20Vercelli%20y%20Cesar%20Hector%20Fernando%20La%20Chica&dates=20211212T000000Z/20211212T010000Z&details=02%3A00-03%3A00%20Dise%C3%B1o%20UX%20Fiorella%20Vercelli%20y%20Cesar%20Hector%20Fernando%20La%20Chica%0ADate%20and%20Time%3A%20Dec%2012%2C%202021%2012%3A00%20AM%20-%201%3A00%20AM%0AVenue%3A%20Evento%20online%2024h24l.org%0ACharla%20Dise%C3%B1o%20UX%20en%2024H24L&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "¿Por qué aprender Python?",
+        "fecha": "03:00 - 04:00 / 12 diciembre",
+        "participantes": [
+            {
+                "nombre": "Clara Martínez"
+            },
+            {
+                "nombre": "Leticia Martín"
+            }
+        ],
+        "moderador": "Jimena Escobar",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=Por%20qu%C3%A9%20aprender%20Python%3F%20Clara%20Mart%C3%ADnez%20y%20Leticia%20Mart%C3%ADn%20Jimena%20Escobar&dates=20211212T020000Z/20211212T030000Z&details=Por%20qu%C3%A9%20aprender%20Python%3F%20Clara%20Mart%C3%ADnez%20y%20Leticia%20Mart%C3%ADn%20Jimena%20Escobar%0ADate%20and%20Time%3A%20Dec%2012%2C%202021%202%3A00%20AM%20-%203%3A00%20AM%0AVenue%3A%20Evento%20online%2024h24l.org%0ACharla%20%C2%BFPor%20qu%C3%A9%20aprender%20Python%3F%20en%2024H24L&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "Desarrollo con n8n",
+        "fecha": "04:00 - 05:00 / 12 diciembre",
+        "participantes": [
+            {
+                "nombre": "Aitor Roma"
+            },
+            {
+                "nombre": "Miquel Colomer"
+            }
+        ],
+        "moderador": "David Marzal",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=Desarrollo%20con%20n8n%20Aitor%20Roma%20y%20Miquel%20Colomer%20David%20Marzal&dates=20211212T020000Z/20211212T030000Z&details=Desarrollo%20con%20n8n%20Aitor%20Roma%20y%20Miquel%20Colomer%20David%20Marzal%0ADate%20and%20Time%3A%20Dec%2012%2C%202021%202%3A00%20AM%20-%203%3A00%20AM%0AVenue%3A%20Evento%20online%2024h24l.org%0ACharla%20Desarrollo%20con%20n8n%20en%2024H24L&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "Herramientas de despliegue",
+        "fecha": "05:00 - 06:00 / 12 diciembre",
+        "participantes": [
+            {
+                "nombre": "David Vaquero"
+            },
+            {
+                "nombre": "Antony Goetzschel"
+            }
+        ],
+        "moderador": "Lorenzo Carbonell",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=Herramientas%20de%20despliegue%20David%20Vaquero%20y%20Antony%20Goetzschel%20Lorenzo%20Carbonell&dates=20211212T030000Z/20211212T040000Z&details=Herramientas%20de%20despliegue%20David%20Vaquero%20y%20Antony%20Goetzschel%20Lorenzo%20Carbonell%0ADate%20and%20Time%3A%20Dec%2012%2C%202021%203%3A00%20AM%20-%204%3A00%20AM%0AVenue%3A%20Evento%20online%2024h24l.org%0ACharla%20Herramientas%20de%20despliegue%20en%2024H24L&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "Big Data",
+        "fecha": "06:00 - 07:00 / 12 diciembre",
+        "participantes": [
+            {
+                "nombre": "Cesar Gallego "
+            },
+            {
+                "nombre": "Laura Lácarra"
+            }
+        ],
+        "moderador": "José Jiménez",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=Big%20Data%20Cesar%20Gallego%20y%20Laura%20L%C3%A1carra%20Jos%C3%A9%20Jim%C3%A9nez&dates=20211212T050000Z/20211212T060000Z&details=Big%20Data%20Cesar%20Gallego%20y%20Laura%20L%C3%A1carra%20Jos%C3%A9%20Jim%C3%A9nez%0ADate%20and%20Time%3A%20Dec%2012%2C%202021%205%3A00%20AM%20-%206%3A00%20AM%0AVenue%3A%20Evento%20online%2024h24l.org%0ACharla%20Big%20Data%20en%2024H24L&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "Programación funcional",
+        "fecha": "07:00 - 08:00 / 12 diciembre",
+        "participantes": [
+            {
+                "nombre": "Héctor Navarro"
+            },
+            {
+                "nombre": "Jesús Gómez"
+            }
+        ],
+        "moderador": "Andros Fenollosa",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=Programaci%C3%B3n%20funcional%20H%C3%A9ctor%20Navarro%20y%20Jes%C3%BAs%20G%C3%B3mez%20Andros%20Fenollosa&dates=20211212T060000Z/20211212T070000Z&details=Programaci%C3%B3n%20funcional%20H%C3%A9ctor%20Navarro%20y%20Jes%C3%BAs%20G%C3%B3mez%20Andros%20Fenollosa%0ADate%20and%20Time%3A%20Dec%2012%2C%202021%206%3A00%20AM%20-%207%3A00%20AM%0AVenue%3A%20Evento%20online%2024h24l.org%0ACharla%20Programaci%C3%B3n%20funcional%20en%2024H24L&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "Programación y microservicios",
+        "fecha": "08:00 - 09:00 / 12 diciembre",
+        "participantes": [
+            {
+                "nombre": "Marta Gómez"
+            },
+            {
+                "nombre": "Álvaro García Fernández"
+            }
+        ],
+        "moderador": "David Marzal",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=Programaci%C3%B3n%20y%20microservicios%20Marta%20G%C3%B3mez%20y%20%C3%81lvaro%20Garc%C3%ADa%20Fern%C3%A1ndez%20David%20Marzal&dates=20211212T070000Z/20211212T080000Z&details=Programaci%C3%B3n%20y%20microservicios%20Marta%20G%C3%B3mez%20y%20%C3%81lvaro%20Garc%C3%ADa%20Fern%C3%A1ndez%20David%20Marzal%0ADate%20and%20Time%3A%20Dec%2012%2C%202021%207%3A00%20AM%20-%208%3A00%20AM%0AVenue%3A%20Evento%20online%2024h24l.org%0ACharla%20Programaci%C3%B3n%20y%20microservicios%20en%2024H24L&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "Programación con microcontroladores",
+        "fecha": "09:00 - 10:00 / 12 diciembre",
+        "participantes": [
+            {
+                "nombre": "Gustavo Reynaga"
+            },
+            {
+                "nombre": "Orils Rius"
+            }
+        ],
+        "moderador": "Josue",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=Programaci%C3%B3n%20con%20microcontroladores%20Gustavo%20Reynaga%20y%20Orils%20Rius%20Josue&dates=20211212T080000Z/20211212T090000Z&details=Programaci%C3%B3n%20con%20microcontroladores%20Gustavo%20Reynaga%20y%20Orils%20Rius%20Josue%0ADate%20and%20Time%3A%20Dec%2012%2C%202021%208%3A00%20AM%20-%209%3A00%20AM%0AVenue%3A%20Evento%20online%2024h24l.org%0ACharla%20Programaci%C3%B3n%20con%20microcontroladores%20%20en%2024H24L&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "Programación y seguridad",
+        "fecha": "10:00 - 11:00 / 12 diciembre",
+        "participantes": [
+            {
+                "nombre": "Jorge Cuadrado"
+            },
+            {
+                "nombre": "César Gallego"
+            }
+        ],
+        "moderador": "Diego Muñoz",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=Programaci%C3%B3n%20y%20seguridad%20Jorge%20Cuadrado%20y%20Cesar%20Gallego%20Diego%20Mu%C3%B1oz&dates=20211212T090000Z/20211212T100000Z&details=Programaci%C3%B3n%20y%20seguridad%20Jorge%20Cuadrado%20y%20Cesar%20Gallego%20Diego%20Mu%C3%B1oz%0ADate%20and%20Time%3A%20Dec%2012%2C%202021%209%3A00%20AM%20-%2010%3A00%20AM%0AVenue%3A%20Evento%20online%2024h24l.org%0ACharla%20Programaci%C3%B3n%20y%20seguridad%20en%2024H24L&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "Programación con Odoo ",
+        "fecha": "11:00 - 12:00 / 12 diciembre",
+        "participantes": [
+            {
+                "nombre": "Jose Márquez"
+            },
+            {
+                "nombre": " Fernando de La Chica"
+            }
+        ],
+        "moderador": "Evelio Sánchez",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=Programaci%C3%B3n%20con%20Odoo%20Jose%20Marquez%20y%20Fernando%20de%20La%20Chica%20Evelio%20S%C3%A1nchez&dates=20211212T100000Z/20211212T110000Z&details=Programaci%C3%B3n%20con%20Odoo%20Jose%20Marquez%20y%20Fernando%20de%20La%20Chica%20Evelio%20S%C3%A1nchez%0ADate%20and%20Time%3A%20Dec%2012%2C%202021%2010%3A00%20AM%20-%2011%3A00%20AM%0AVenue%3A%20Evento%20online%2024h24l.org%0ACharla%20Programaci%C3%B3n%20con%20Odoo%20en%2024H24L&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "Programación en BIM",
+        "fecha": "12:00 - 13:00 / 12 diciembre",
+        "participantes": [
+            {
+                "nombre": "Evelio Sánchez"
+            },
+            {
+                "nombre": "Antonio Viegas"
+            }
+        ],
+        "moderador": "José Jiménez",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=Programaci%C3%B3n%20en%20BIM%20Evelio%20S%C3%A1nchez%20y%20Antonio%20Viegas%20Jos%C3%A9%20Jim%C3%A9nez&dates=20211212T110000Z/20211212T120000Z&details=Programaci%C3%B3n%20en%20BIM%20Evelio%20S%C3%A1nchez%20y%20Antonio%20Viegas%20Jos%C3%A9%20Jim%C3%A9nez%0ADate%20and%20Time%3A%20Dec%2012%2C%202021%2011%3A00%20AM%20-%2012%3A00%20PM%0AVenue%3A%20Evento%20online%2024h24l.org%0ACharla%20Programaci%C3%B3n%20en%20BIM%20%20en%2024H24L&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "Programación en escritorio",
+        "fecha": "13:00 - 14:00 / 12 diciembre",
+        "participantes": [
+            {
+                "nombre": "Lorenzo Carbonell"
+            },
+            {
+                "nombre": "Marcos Costales"
+            }
+        ],
+        "moderador": "Samuel",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=Programaci%C3%B3n%20en%20escritorio%20Lorenzo%20Carbonell%20y%20Marcos%20Costales%20Samuel&dates=20211212T120000Z/20211212T130000Z&details=Programaci%C3%B3n%20en%20escritorio%20Lorenzo%20Carbonell%20y%20Marcos%20Costales%20Samuel%0ADate%20and%20Time%3A%20Dec%2012%2C%202021%2012%3A00%20PM%20-%201%3A00%20PM%0AVenue%3A%20Evento%20online%2024h24l.org%0ACharla%20Programaci%C3%B3n%20en%20escritorio%20en%2024H24L&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "Programación GIS",
+        "fecha": "14:00 - 15:00 / 12 diciembre",
+        "participantes": [
+            {
+                "nombre": "Luigi Pirelli"
+            },
+            {
+                "nombre": "María Arias de Reyna"
+            }
+        ],
+        "moderador": "David Marzal",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=Programaci%C3%B3n%20GIS%20Luigi%20Pirelli%20y%20Mar%C3%ADa%20Arias%20de%20Reyna%20David%20Marzal&dates=Invalid date/Invalid date&details=Programaci%C3%B3n%20GIS%20Luigi%20Pirelli%20y%20Mar%C3%ADa%20Arias%20de%20Reyna%20David%20Marzal%0AVenue%3A%20Evento%20online%2024h24l.org%0ACharla%20Programaci%C3%B3n%20GIS%20en%2024H24L&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "Programación en videojuegos",
+        "fecha": "15:00 - 16:00 / 12 diciembre",
+        "participantes": [
+            {
+                "nombre": "Elena Blanes"
+            },
+            {
+                "nombre": "Rafa Laguna"
+            }
+        ],
+        "moderador": "Pato",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=Programaci%C3%B3n%20en%20videojuegos%20Elena%20Blanes%20y%20Rafa%20Laguna%20Pato&dates=20211212T140000Z/20211212T150000Z&details=Programaci%C3%B3n%20en%20videojuegos%20Elena%20Blanes%20y%20Rafa%20Laguna%20Pato%0ADate%20and%20Time%3A%20Dec%2012%2C%202021%202%3A00%20PM%20-%203%3A00%20PM%0AVenue%3A%20Evento%20online%2024h24l.org%0ACharla%20Programaci%C3%B3n%20de%20videojuegos%20en%2024H24L&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    },
+    {
+        "titulo": "Mesa redonda",
+        "fecha": "16:00 - 18:00 / 12 diciembre",
+        "participantes": [
+            {
+                "nombre": "Participantes y oyentes"
+            }
+        ],
+        "moderador": "Jose Jíménez",
+        "calendario": "https://www.google.com/calendar/render?action=TEMPLATE&text=Mesa%20redonda%2024H24L&dates=20211212T150000Z/20211212T170000Z&details=Mesa%20redonda%2024H24L%0ADate%20and%20Time%3A%20Dec%2012%2C%202021%203%3A00%20PM%20-%205%3A00%20PM%0AVenue%3A%20Evento%20online%2024h24l.org%0AEntre%20participantes%20y%20oyentes.%20Con%20Jos%C3%A9%20Jim%C3%A9nez.&location=Evento%20online%2024h24l.org&trp=true&sf=true&output=xml#f"
+    }
+]

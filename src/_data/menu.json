@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Inicio",
+        "href": "/",
+        "title": "Inicio 24H24L"
+    },
+    {
+        "name": "Programación",
+        "href": "/programacion",
+        "title": "Programación 24H24L"
+    },
+    {
+        "name": "Patrocinadores",
+        "href": "/patrocinadores",
+        "title": "Patrocinadores 24H24L"
+    },
+    {
+        "name": "Participantes",
+        "href": "/participantes",
+        "title": "Participantes 24H24L"
+    },
+    {
+        "name": "Contacto",
+        "href": "/contacto",
+        "title": "Contacta con 24H24L"
+    }
+]

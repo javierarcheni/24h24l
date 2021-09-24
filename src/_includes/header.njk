@@ -1,0 +1,47 @@
+<div class="max-w-lg mx-auto rounded-b-full text-white text-center bg-primary py-1">
+
+<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2 -mt-1 inline text-white" viewBox="0 0 20 20" fill="currentColor">
+  <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd" />
+</svg>Emitimos en 
+<span id="countdown" class=""></span>
+</div>
+
+<div class="flex justify-center items-center py-2">
+
+<div class="w-1/3">
+<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 md:h-10 md:w-10 mx-auto text-primary mt-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z" />
+</svg>
+<p class="text-center uppercase text-gray-600 text-sm md:text-base leading-none md:leading-none mt-2 text-primary font-bold tracking-tight">24 audios <span class="block font-normal text-black">de 1 hora de duración</span></p>
+</div>
+
+<div class="w-1/3">
+        <a href="/">    
+        {% image "images/logo-24h24l.png", "Logo 24h24L", "w-48 mx-auto" %}
+        </a>
+    
+</div>
+
+<div class="w-1/3">
+<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 md:h-10 md:w-10 mx-auto text-primary mt-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+</svg>
+<p class="text-center uppercase text-gray-600 text-sm md:text-base leading-none md:leading-none mt-2 text-primary font-bold tracking-tight">Días de emisión<span class="block font-normal text-black">11 y 12 diciembre 2021</span></p>
+</div>
+
+
+
+
+</div>
+
+
+<div class="w-full bg-primary py-1 rounded-lg">
+<nav>
+    <ul class="flex justify-around font-bold tracking-tight text-base lg:text-lg">
+    {% for item in menu %}
+    <li><a href="{{ item.href | safe }}" class="text-white hover:opacity-75">{{ item.name}}</a></li>
+    {% endfor %}
+    
+    </ul>
+</nav>
+</div>
